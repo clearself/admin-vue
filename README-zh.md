@@ -1,13 +1,13 @@
-# vue-backend-router-template
+# admin-vue
 
 ## Build Setup
 
 ```bash
 # 克隆项目
-git clone https://gitee.com/chenq7/vue-backend-router-template.git
+git clone https://github.com/clearself/admin-vue.git
 
 # 进入项目目录
-cd vue-backend-router-template
+cd admin-vue
 
 # 安装依赖
 npm install
@@ -16,7 +16,7 @@ npm install
 npm install --registry=https://registry.npm.taobao.org
 
 # 启动服务
-npm run dev
+npm run serve
 ```
 
 浏览器访问 [http://localhost:9528](http://localhost:9528)
@@ -24,9 +24,7 @@ npm run dev
 ## 发布
 
 ```bash
-# 构建测试环境
-npm run build:stage
 
 # 构建生产环境
-npm run build:prod
+npm run build
 ```

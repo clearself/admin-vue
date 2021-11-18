@@ -1,22 +1,21 @@
-# vue-admin-template
+# admin-vue (后端配置权限)
 
 English | [简体中文](./README-zh.md)
 
 ## Build Setup
 
-
 ```bash
 # clone the project
-git clone https://gitee.com/chenq7/vue-backend-router-template.git
+git clone https://github.com/clearself/admin-vue.git
 
 # enter the project directory
-cd vue-backend-router-template
+cd admin-vue
 
 # install dependency
 npm install
 
 # develop
-npm run dev
+npm run serve
 ```
 
 This will automatically open http://localhost:9528
@@ -24,9 +23,6 @@ This will automatically open http://localhost:9528
 ## Build
 
 ```bash
-# build for test environment
-npm run build:stage
-
 # build for production environment
 npm run build:prod
 ```
