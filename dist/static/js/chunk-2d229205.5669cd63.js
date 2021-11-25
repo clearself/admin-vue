@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d229205"],{dbb3:function(t,e,n){"use strict";n.r(e);var l=n("2877"),a=Object(l.a)({},(function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticStyle:{padding:"30px"}},[e("el-alert",{attrs:{closable:!1,title:"menu 2"}})],1)}),[],!1,null,null,null);e.default=a.exports}}]);
